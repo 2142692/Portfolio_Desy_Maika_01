@@ -45,3 +45,6 @@ J'ai bien aimé le message transmis à travers l'oeuvre, du fait que les homicid
 
 # aspect que vous ne souhaitez pas retenir.
 Personnellement ce j'aurais rajouté à l'oeuvre, ça serait que la boucle de la corde se sert de manière infini en même temps que le balancement.
+
+# Références
+![Moi](media/moi.png)
