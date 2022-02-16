@@ -22,13 +22,15 @@ C'est une sculpture ressemblant à une corde de pendue, tenue par en bas, qui se
 ![Corde](medias/corde.jpg)
 
 # Explications sur la mise en espace de l'oeuvre.
-En gros, l'oeuvre est placé dans une salle éclairé, car ce n'est pas un dispositif pour aller dans le noir. Il est prêt du mur de sorte qu'il soit bien branché. Autour de ses composants en bas, il y a des barres de métal qui les protèges. De plus, il y a beaucoup d'espace entre celle-ci e le autres oeuvres.
+En gros, l'oeuvre est placé dans une salle éclairé, car ce n'est pas un dispositif pour aller dans le noir. Il est prêt du mur de sorte qu'il soit bien branché. Autour de ses composants en bas, il y a des barres de métal qui les protèges. De plus, il y a beaucoup d'espace entre celle-ci de les autres oeuvres.
+![Prise](medias/prise.jpg) ![Bascorde](medias/bascorde.jpg) ![Hautcorde](medias/hautcorde.jpg) ![Profilcorde](medias/profilcorde.jpg)
 
 ## Listes des composantes et techniques de l'oeuvre.
 -Composantes électroniqus
 -Moteur
 -Plateforme Arduino
 -Langage de programmation Wiring
+![Composant1](medias/composant1.jpg) ![Composant2](medias/composant2.jpg) ![Composant3](medias/composant3.jpg)
 
 # Liste des éléments nécessaires pour la mise en exposition.
 -Barre de métal
@@ -43,6 +45,7 @@ J'ai trouvée cela très intéressant de voir une corde de pendue tenir sur un s
 
 # Ce qui vous a plu
 J'ai bien aimé le message transmis à travers l'oeuvre, du fait que les homicides sont représentés par une corde et les morts représentés par chaque balancements. je m'inspirerais probablement puisque les arts avec une signification.
+![Moicorde](medias/moicorde.jpg)
 
 # aspect que vous ne souhaitez pas retenir.
 Personnellement ce j'aurais rajouté à l'oeuvre, ça serait que la boucle de la corde se sert de manière infini en même temps que le balancement.
