@@ -19,6 +19,7 @@ Arsenal art contemporain.
 
 ## Description de l'oeuvre ou du dispositif multimédia.
 C'est une sculpture ressemblant à une corde de pendue, tenue par en bas, qui se balance selon le carpel de Rafael Lozano-Hemmer: « au rythme d'une fréquence des homicides par armes à feu en Amérique du Nord soit environ toutes les 10 à 15 secondes.»
+
 ![Corde](medias/corde.jpg)
 
 # Explications sur la mise en espace de l'oeuvre.
@@ -39,7 +40,7 @@ En gros, l'oeuvre est placé dans une salle éclairé, car ce n'est pas un dispo
 -Acier
 -Moteur
 
-![Hautcorde](medias/hautcorde.jpg)
+![Hautcorde](medias/hautcorde.jpg) ![Moteur](medias/moteur.jpg)
 
 ## Expérience vécue:
 
