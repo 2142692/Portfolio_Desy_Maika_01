@@ -25,7 +25,7 @@ C'est une sculpture ressemblant à une corde de pendue, tenue par en bas, qui se
 # Explications sur la mise en espace de l'oeuvre.
 En gros, l'oeuvre est placé dans une salle éclairé, car ce n'est pas un dispositif pour aller dans le noir. Il est prêt du mur de sorte qu'il soit bien branché. Autour de ses composants en bas, il y a des barres de métal qui les protèges. De plus, il y a beaucoup d'espace entre celle-ci de les autres oeuvres.
 
-![Prise](medias/prise.jpg) ![Bascorde](medias/bascorde.jpg) ![Profilcorde](medias/profilcorde.jpg)
+![Prise](medias/prise.jpg) ![Bascorde](medias/bascorde.jpg) ![Profilcorde](medias/profilcorde.jpg) ![Croquis](medias/croquis.jpg) 
 
 ## Listes des composantes et techniques de l'oeuvre.
 -Composantes électroniqus
