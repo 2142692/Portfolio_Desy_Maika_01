@@ -55,3 +55,4 @@ J'ai bien aimé le message transmis à travers l'œuvre, du fait que les homicid
 Personnellement, ce que j'aurais rajouté à l'œuvre, ce serait que la boucle de la corde se sert de manière infinie en même temps que le balancement.
 
 # Références
+https://lozano-hemmer.com/sway.php
