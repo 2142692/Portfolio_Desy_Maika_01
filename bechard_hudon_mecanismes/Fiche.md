@@ -45,14 +45,16 @@ L'oeuvre est directement placé sur un grand mur alligné avec une grande espace
 -diodes électroluminescentes
 
 
-## Expérience vécue:
+# Expérience vécue:
 
-# description de l'expérience
+## description de l'expérience.
+Le mouvement était magnifique et hypnotisant. C'est vrai qu'avec les motifs dans les acryliques, on peut facilement observé une illusion de brouillé. Cela donne envie du juste s'assoir devant l'oeuvre pendant des heurs et la contempler.
 
-## Ce qui vous a plu
+## Ce qui m'a plu.
+j'ai bien aimé l'illusion visuel, du fait que les lignes bougent tel une télévision brouillé. Il y avait aussi les lumières que j'ai trouvé très pertinent, cela donnait un effet plus rayonnant. J'ai même aimé les trois forme ronde, triangle et carré c'est comme si il y avait trois univers différent.
 
-## aspect que vous ne souhaitez pas retenir.
-
+## aspect que je ne souhaite pas retenir.
+il n'y a pas vraiment d'aspect que je ne souhaite pas retenir, car j'ai trouvé que toute était important, que ce soit les éléments techniques ou visuelles.
 
 ## Références
 
