@@ -3,9 +3,9 @@
 Mécanismes de dessaisissement(rond, carré, triangle)
 
 ## Nom de l'artiste
+inconnu
 
-
-# Année de réalisation
+## Année de réalisation
 2019-2021
 
 ## Nom de l'exposition
@@ -18,27 +18,28 @@ Maison des arts.
 16 mars 2022
 
 ## Description de l'œuvre ou du dispositif multimédia.
+c'est des sculptures murales de fprme ronde, triangle et carré qui s'activent grâce à un détecteur de mouvement. Il produit une chorégraphie géométrique, lumineuse et chromatique.
 
 
 
-
-# Explications sur la mise en espace de l'œuvre.
+## Explications sur la mise en espace de l'œuvre.
+L'oeuvre est directe placé sur un grand mur alligné avec une grande espace entre chacun. C'est à peu près la première chose que les visiteurs aperçoie en rentrant dans la pièce. 
 
 ## Listes des composantes et techniques de l'œuvre.
 
 
-# Liste des éléments nécessaires pour la mise en exposition.
+## Liste des éléments nécessaires pour la mise en exposition.
 
 
 ## Expérience vécue:
 
 # description de l'expérience
 
-# Ce qui vous a plu
+## Ce qui vous a plu
 
-# aspect que vous ne souhaitez pas retenir.
+## aspect que vous ne souhaitez pas retenir.
 
 
-# Références
+## Références
 
 
