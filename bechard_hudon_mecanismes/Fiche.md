@@ -20,7 +20,7 @@ Maison des arts.
 ## Description de l'œuvre ou du dispositif multimédia.
 c'est des sculptures murales de forme ronde, triangle et carré qui s'activent grâce à un détecteur de mouvement. Il produit une chorégraphie géométrique, lumineuse et chromatique.
 
-![Carré](medias/carré.png)
+![Cartel](medias/cartel.png) ![Carré](medias/carré.png) ![Triangle](medias/triangle.png) ![Rond](medias/rond.png)
 
 ## Explications sur la mise en espace de l'œuvre.
 L'oeuvre est directement placé sur un grand mur alligné avec une grande espace entre chacun. C'est à peu près la première chose que les visiteurs aperçoie en rentrant dans la pièce. 
