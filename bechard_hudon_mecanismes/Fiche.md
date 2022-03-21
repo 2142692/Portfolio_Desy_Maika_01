@@ -1,9 +1,8 @@
-
 # Titre de l'œuvre
-Mécanismes de dessaisissement(rond, carré, triangle)
+Mécanismes de dessaisissement (rond, carré, triangle)
 
 ## Nom de l'artiste
-inconnu
+Inconnu
 
 ## Année de réalisation
 2019-2021
@@ -18,12 +17,12 @@ Maison des arts.
 16 mars 2022
 
 ## Description de l'œuvre ou du dispositif multimédia.
-c'est des sculptures murales de forme ronde, triangle et carré qui s'activent grâce à un détecteur de mouvement. Il produit une chorégraphie géométrique, lumineuse et chromatique.
+Ce sont des sculptures murales de forme ronde, triangle et carré qui s'activent grâce à un détecteur de mouvement. Il produit une chorégraphie géométrique, lumineuse et chromatique.
 
 ![Cartel](medias/cartel.png) ![Carré](medias/carré.png) ![Triangle](medias/triangle.png) ![Rond](medias/rond.png)
 
 ## Explications sur la mise en espace de l'œuvre.
-L'oeuvre est directement placé sur un grand mur alligné avec une grande espace entre chacun. C'est à peu près la première chose que les visiteurs aperçoie en rentrant dans la pièce. 
+Les œuvres sont directement placées sur un grand mur aligné avec une grande espace entre chacun. C'est à peu près la première chose que les visiteurs aperçoivent en rentrant dans la pièce. 
 
 ## Listes des composantes et techniques de l'œuvre.
 
@@ -48,13 +47,13 @@ L'oeuvre est directement placé sur un grand mur alligné avec une grande espace
 # Expérience vécue:
 
 ## description de l'expérience.
-Le mouvement était magnifique et hypnotisant. C'est vrai qu'avec les motifs dans les acryliques, on peut facilement observé une illusion de brouillé. Cela donne envie du juste s'assoir devant l'oeuvre pendant des heurs et la contempler.
+Le mouvement était magnifique et hypnotisant. C'est vrai qu'avec les motifs dans les acryliques, on peut facilement observer une illusion brouillée. Cela donne envie de juste s'asseoir devant les œuvres pendant des heures et les contempler.
 
 ## Ce qui m'a plu.
-j'ai bien aimé l'illusion visuel, du fait que les lignes bougent tel une télévision brouillé. Il y avait aussi les lumières que j'ai trouvé très pertinent, cela donnait un effet plus rayonnant. J'ai même aimé les trois forme ronde, triangle et carré c'est comme si il y avait trois univers différent.
+J’ai bien aimé l'illusion visuelle, du fait que les lignes bougent telle une télévision brouillée. Il y avait aussi les lumières que j'ai trouvé très pertinentes, cela donnait un effet plus rayonnant. J'ai même aimé les trois formes : ronde, triangle et carré c'est comme s’il y avait trois univers différents.
 
 ## aspect que je ne souhaite pas retenir.
-il n'y a pas vraiment d'aspect que je ne souhaite pas retenir, car j'ai trouvé que toute était important, que ce soit les éléments techniques ou visuelles. le mouvement est beau et le design est fabuleux.
+Il n'y a pas vraiment d'aspect que je ne souhaite pas retenir, car j'ai trouvé que tout était important, que ce soient les éléments techniques ou visuels. Le mouvement est beau et le design est fabuleux.
 
 ## Références
 
