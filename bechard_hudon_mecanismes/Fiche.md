@@ -54,7 +54,7 @@ Le mouvement était magnifique et hypnotisant. C'est vrai qu'avec les motifs dan
 j'ai bien aimé l'illusion visuel, du fait que les lignes bougent tel une télévision brouillé. Il y avait aussi les lumières que j'ai trouvé très pertinent, cela donnait un effet plus rayonnant. J'ai même aimé les trois forme ronde, triangle et carré c'est comme si il y avait trois univers différent.
 
 ## aspect que je ne souhaite pas retenir.
-il n'y a pas vraiment d'aspect que je ne souhaite pas retenir, car j'ai trouvé que toute était important, que ce soit les éléments techniques ou visuelles.
+il n'y a pas vraiment d'aspect que je ne souhaite pas retenir, car j'ai trouvé que toute était important, que ce soit les éléments techniques ou visuelles. le mouvement est beau et le design est fabuleux.
 
 ## Références
 
