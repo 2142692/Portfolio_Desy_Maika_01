@@ -26,27 +26,46 @@ On est dans une petite salle, au milieu il y a l'horloge et un téléphone. Auto
 
 ## Listes des composantes et techniques de l'œuvre.
 -4 haut-parleurs
+
 -8 fils XLR 3
+
 -Focusrite carte de son
+
 -3 projecteurs vidéo lentille ultra wide 0.3
+
 -3 système d'acrochage
+
 -1 caméra Sony a6500
+
 -un projecteur de lumière couleur
+
 -2 fils XLR 3 conducteurs de 20'
+
 -Console DMX
+
 -Interface DMX USB
+
 -1 ordinateur de l'école ou 2 si le premier ne suffit pas
+
 -2 micro-contrôleur (Arduino)
+
 -Kit de camera
+
 -Kit de detection de présence (capteur de mouvement (kinect) pour le spotlight)
+
 -1 potentiomètre
+
 -Toile blanche (pour projection)
+
 -1 bouton
+
 -8 safety
 
 ## Liste des éléments nécessaires pour la mise en exposition.
 -Téléphone
+
 -Piédestal romain
+
 -Horloge
 
 ![Horloge](medias/horloge.png) ![Téléphone](medias/téléphone.png)
