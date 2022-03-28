@@ -63,12 +63,17 @@ J'ai aimé que l'horloge soit directe programmé avec les projecteur et j'ai aim
 Ce que j'aurais rajouté ça serait qu'à chaque heure il y ais des énigmes parce que les gens on souvent tendance à chercher des mystères au lieu de juste observer. Aussi, comme énigme par exemple avec le téléphone il y aurait pu avoir plein de trucs à faire parce que tous ce qu'il fesait c'est de répéter la même phrase en boucle: "Il est temps d'agir", mais on peut rien faire de plus que juste bouger l'aiguille. Il y aurait pu avoir une fin où on réussie à sauver l'humanité selon nos actions.
 
 ## Ordre selon mes préférances
-1-L'horloge de l'apocalypse
-2-Chère Sasha
-3-Distorsion collective
-4-3 minutes
-5-Jeu temporel
-6-Chronaufrage
+1-L'horloge de l'apocalypse, car c'était une expérience très appaisant et c'était super quand on manipulait le temps.
+
+2-Chère Sasha, car on dirait vraiment qu'on vivait la vie de la personne.
+
+3-Distorsion collective, j'ai quand même bien aimé car ça m'avait rappeler le quotidien en boucle des cours en ligne et j'ai ressentie de l'anxiété.
+
+4-3 minutes, je pensais que l'expérience serait super, mais le jeu bugait et dans le casier je ne ressentait aucun stress le son n'était pas assez fort.
+
+5-Jeu temporel, l'expérience était super mais les questions était interminable. Aussi, il y avait de l'intéraction inutile avec le personnage comme quand il bugait ou quand il changait d'apparence je trouvais cela inutile.
+
+6-Chronaufrage, c'était beau mais la kinect pour moi marchait une fois sur deux.
 
 ## Références
 https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
