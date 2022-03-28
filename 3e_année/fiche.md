@@ -22,6 +22,8 @@ Il y a une grosse horloge qu'on peut contrôler l'aiguille. À chaque heure on v
 ## Explications sur la mise en espace de l'œuvre.
 On est dans une petite salle, au milieu il y a l'horloge et un téléphone. Autour il y avait des projections sur les toiles blanches.
 
+![Enssemble](medias/enssemble.png) ![Paysage](medias/paysage.png)
+
 ## Listes des composantes et techniques de l'œuvre.
 -4 haut-parleurs
 -8 fils XLR 3
@@ -46,6 +48,8 @@ On est dans une petite salle, au milieu il y a l'horloge et un téléphone. Auto
 -Téléphone
 -Piédestal romain
 -Horloge
+
+![Horloge](medias/horloge.png) ![Téléphone](medias/téléphone.png)
 
 # Expérience vécue:
 
