@@ -44,7 +44,7 @@ Elle est collée au mur de fasse à un couloir pour qu'elle soit une des premiè
 
 -Des cartes capter par satellites
 
-![Carte](medias/carte)
+![Carte](medias/carte) ![Description](medias/description)
 
 # Expérience vécue:
 C'était intéressant de voir comment les satellites captent les innondations.
