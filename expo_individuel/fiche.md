@@ -39,7 +39,9 @@ Elle est collée au mur de fasse à un couloir pour qu'elle soit une des premiè
 
 ## Liste des éléments nécessaires pour la mise en exposition.
 -Un plateau
+
 -Des descritions
+
 -Des cartes capter par satellites
 
 ![Carte](medias/carte)
