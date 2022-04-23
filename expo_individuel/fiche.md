@@ -1,6 +1,8 @@
 # Titre de l'œuvre
 De l'aide en cas de catastrophe.
 
+![Expo](medias/expo)
+
 ## Nom de l'artiste
 Inconnu
 
