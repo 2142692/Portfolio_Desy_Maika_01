@@ -35,7 +35,7 @@ Elle est collée au mur de fasse à un couloir pour qu'elle soit une des premiè
 
 -Un brancheur
 
-![Écran](medias/écran) ![Plug](medias/plug)
+![Écran](medias/éran) ![Plug](medias/plug)
 
 ## Liste des éléments nécessaires pour la mise en exposition.
 -Un plateau
