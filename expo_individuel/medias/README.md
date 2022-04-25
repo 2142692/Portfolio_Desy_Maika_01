@@ -1,2 +1,2 @@
 
-Ce fichiers contient les images de l'oeuvre multimédia individuel.
+Ce fichier contient les images de l'oeuvre multimédia individuel.
