@@ -1,1 +1,1 @@
-![Croquis](medias/croquis)
+![Croquis](medias/croquis.png)
