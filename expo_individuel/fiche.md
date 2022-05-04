@@ -1,3 +1,6 @@
+# Exposition individuelle
+Le 3 avril 2022 je suis allé au Cosmodome,voir une exposition qui s'intitule de l'aide en cas de catastrophe. Cela consiste à interagir avec un petit écran afin de trouver les innondations.
+
 # Titre de l'œuvre
 De l'aide en cas de catastrophe.
 
@@ -63,3 +66,7 @@ J'ai aimé le fait qu'on pouvait interagir avec le petit écran pour trouver les
 Il n’y en a pas vraiment j'ai trouvé tout important et je ne changerais rien.
 
 ## Références
+
+
+## Finalement
+Pour conclure je dirais que c'était très intéressant de faire intéragir les gens dans les problèmes d'innondations, cela permet de les sensibiliser. Aussi je pense que ça m'inspire beaucoup, pour les projets avenir, le fait d'informer les gens sur différente catastrophe naturelle. 
